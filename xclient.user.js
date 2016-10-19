@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         XClient下载链接自动提取
+// @name         XClient设置下载链接
 // @namespace    http://www.farwmarth.com/
 // @version      0.1
 // @description  XClient
-// @author       You
+// @author       far
 // @match        http://xclient.info/*
 // @grant        unsafeWindow
 // ==/UserScript==
