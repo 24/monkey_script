@@ -1,13 +1,6 @@
-/*
-* @Author: wujiyu
-* @Date:   2016-10-19 10:18:52
-* @Last Modified by:   wujiyu
-* @Last Modified time: 2016-10-19 10:19:37
-*/
-
 // ==UserScript==
 // @name         XClient下载链接自动提取
-// @namespace    http://www.farwmarth.net/
+// @namespace    http://www.farwmarth.com/
 // @version      0.1
 // @description  XClient
 // @author       You
@@ -27,7 +20,6 @@
 
         var down_wrap =document.getElementsByClassName("down_wrap")[0];
         down_wrap.innerHTML = href_txt;
-        console.log(url)
     }
 })();
 
