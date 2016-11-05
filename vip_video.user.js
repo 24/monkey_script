@@ -2,25 +2,71 @@
 * @Author: wujiyu
 * @Date:   2016-10-18 16:28:43
 * @Last Modified by:   wujiyu
-* @Last Modified time: 2016-10-18 17:54:07
+* @Last Modified time: 2016-11-02 15:13:37
 */
 
-'use strict';
 /**
-http://000o.cc/jx/ty.php?url=http://www.iqiyi.com/v_19rr9nt2p8.html?fc=87bbded392d221f5
-post http://000o.cc/jx/api.php  数据url
+
+#### 测试地址
++ 爱奇艺: http://www.iqiyi.com/v_19rr9nt2p8.html
++ 优酷: http://v.youku.com/v_show/id_XMTc3NjUxMDU2MA==.html?spm=a2h03.8164468.2069780.11
++ 乐视: http://www.le.com/ptv/vplay/26677046.html?ref=hypdrydp
++ 芒果TV: http://www.mgtv.com/v/1/303260/f/3665598.html
++ 腾讯: http://v.qq.com/x/cover/mhlkz47d7thi2k4.html
 
 
-http://v.72du.com/api/?url=http://www.iqiyi.com/v_19rr9nt2p8.html?fc=87bbded392d221f5
-post http://v.72du.com/api/api.php 数据url
+#### 失效黑色单
++ jiexi.71ki.com
++ wyccoo.cn
++ avziliao
++ lklhd
++ ehecom.com
++ ivlook.com
++ rpsofts.com
++ shop.freegx.cn
++ licoy.cn
++ yunbofang.duapp.cn
++ api.ppypp
++ ccok.top
++ qqdzz.com
++ vip.77ds.vip
++ http://litools.licoy.cn/
+
+**/
 
 
-http://ckplayer.duapp.com/?url=http://www.iqiyi.com/v_19rr9nt2p8.html?fc=87bbded392d221f5
-post http://ckplayer.duapp.com/api.php  数据url
 
 
-腾讯
-http://www.quankan.tv/playpc/index.php?url=http://v.qq.com/x/cover/nye24rhm7f8dyry.html?ptag=film_qq_com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
