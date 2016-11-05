@@ -65,7 +65,10 @@ ad();
 
 var titles = $("#content > h1 > span")[0].textContent.split(" ");
 var movieTitle = titles[0];
-var enMovieTitle = titles[1];
+var enMovieTitle = "";
+//for(var i=1;i<titles.length;i++){
+//    enMovieTitle = enMovieTitle+" "+titles[i];
+//}
 
 function imdb() {
     imdb = $("div#info a[href^='http://www.imdb.com/title/tt']");
@@ -360,4 +363,4 @@ function add_customizeSearch(link, title, text) {
     $("#content div.customizeSearch-body").append(link);
 }
 add_customizeSearch("https://www.baidu.com/s?wd=" + movieTitle + " rip BD", "百度 rip BD", "baiKeyS");
-add_customizeSearch("http://www.id97.com/search?q=" + enMovieTitle, "id97 http://www.id97.com/", "id97");
+add_customizeSearch("http://www.id97.com/search?q=" + movieTitle, "id97 http://www.id97.com/", "id97");
