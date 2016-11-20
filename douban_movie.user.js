@@ -213,6 +213,8 @@ function add_div_link(movie_site_div, link, text) {
     var movie_links =
         {
             sites:[
+                { html: "讯影", href: "http://www.saaee.com/search?q=" + movieTitle},
+                { html: "97电影网", href: "http://www.id97.com/search?q=" + movieTitle},
                 { html: "BT之家", href: "http://www.btbtt.la/search-index-keyword-" + movieTitle + ".htm" },
                 { html: "片源网", href: "http://pianyuan.net/search?q=" + movieTitle },
                 { html: "电影FM", href: "http://dianying.fm/search/?text=" + movieTitle },
@@ -229,7 +231,6 @@ function add_div_link(movie_site_div, link, text) {
                 { html: "胖次", href: "http://panc.cc/s/"+movieTitle+"/de_0"},
                 { html: "网盘搜搜", href: "http://www.wangpansou.cn/s.php?op=baipan&q=" + movieTitle },
                 { html: "百度搜索", href: "https://www.baidu.com/s?wd=" + movieTitle + " rip BD" },
-                { html: "97电影网", href: "http://www.id97.com/search?q=" + movieTitle}
             ],
             captions:[
                 { html: "字幕库", href: "http://www.zimuku.net/search?q=" + movieTitle  },
